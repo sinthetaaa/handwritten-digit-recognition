@@ -1,0 +1,11 @@
+tensorflow==2.16.1
+streamlit==1.38.0
+streamlit-drawable-canvas==0.9.3
+pillow==10.4.0
+pandas==2.2.2
+matplotlib==3.8.4
+opencv-python-headless==4.9.0.80
+scipy==1.11.4
+numpy==1.26.4
+ml-dtypes==0.3.2
+
