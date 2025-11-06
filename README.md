@@ -11,7 +11,7 @@ An end-to-end MNIST digit recognizer that pairs interactive inference in Streaml
 
 ## Watch this video
 
-<video src="Demo.mp4" controls></video>
+<video src="https://github.com/sinthetaaa/handwritten-digit-recognition/raw/main/Demo.mp4" controls></video>
 
 ## Project Layout
 
