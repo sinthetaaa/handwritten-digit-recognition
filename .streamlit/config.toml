@@ -1,0 +1,2 @@
+[global]
+dependenciesFile = "requirements-cloud.txt"
