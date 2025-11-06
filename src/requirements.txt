@@ -1,0 +1,13 @@
+
+tensorflow==2.16.1
+numpy==1.26.4         
+protobuf<5         
+
+streamlit==1.51.0
+streamlit-drawable-canvas==0.9.3
+
+pandas==2.2.2
+matplotlib==3.8.4
+pillow==10.4.0
+
+opencv-python-headless==4.10.0.84
