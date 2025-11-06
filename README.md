@@ -9,10 +9,6 @@ An end-to-end MNIST digit recognizer that pairs interactive inference in Streaml
 - 🛠️ **Fine-tuning workflow**: Continue training the advanced model on your own dataset organized by digit.
 - 📊 **Evaluation utilities**: Generate confusion matrices, inspect misclassifications, and probe robustness against noise, blur, rotation, shift, and stroke-thickness perturbations.
 
-## Watch this video
-
-<video src="https://github.com/sinthetaaa/handwritten-digit-recognition/raw/main/Demo.mp4" controls></video>
-
 ## Project Layout
 
 ```text
